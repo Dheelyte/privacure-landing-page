@@ -7,8 +7,7 @@ function App() {
       {/* Navigation */}
       <nav className="cyber-nav">
         <div className="logo-container">
-          <span className="logo-glitch">Cyberpunk</span>
-          <span className="logo-medtech">MedTech</span>
+          <span className="logo-glitch">Privacure</span>
         </div>
         <div className="nav-links">
           <a href="#contact" className="cta-button">Request Demo</a>
@@ -267,8 +266,7 @@ function App() {
       {/* Footer */}
       <footer className="cyber-footer">
         <div className="footer-logo">
-          <span className="logo-glitch">Cyberpunk</span>
-          <span className="logo-medtech">MedTech</span>
+          <span className="logo-glitch">Privacure</span>
         </div>
         <div className="footer-links">
           <a href="#">Privacy Policy</a>
@@ -277,7 +275,7 @@ function App() {
           <a href="#">Careers</a>
         </div>
         <div className="footer-copyright">
-          © 2023 Cyberpunk MedTech. Protecting Africa's healthcare future.
+          © 2023 Privacure. Protecting Africa's healthcare future.
         </div>
       </footer>
     </div>
