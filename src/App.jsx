@@ -147,11 +147,11 @@ function App() {
             <h3>Market Opportunity</h3>
             <div className="market-stats">
               <div className="market-stat">
-                <div className="stat-value">30K+</div>
+                <div className="stat-value">8K+</div>
                 <div className="stat-label">Hospitals & Clinics</div>
               </div>
               <div className="market-stat">
-                <div className="stat-value">$200-2K</div>
+                <div className="stat-value">$700</div>
                 <div className="stat-label">Monthly Value</div>
               </div>
               <div className="market-stat">
@@ -168,27 +168,27 @@ function App() {
         <h2>Our <span className="highlight">Progress</span></h2>
         <div className="milestones">
           <div className="milestone">
-            <div className="milestone-date">Q1 2023</div>
+            <div className="milestone-date">Q1 2024</div>
             <div className="milestone-dot"></div>
             <div className="milestone-desc">Prototype completed with core AI detection</div>
           </div>
           <div className="milestone">
-            <div className="milestone-date">Q2 2023</div>
+            <div className="milestone-date">Q2 2024</div>
             <div className="milestone-dot"></div>
             <div className="milestone-desc">Live dashboard with encrypted records</div>
           </div>
           <div className="milestone">
-            <div className="milestone-date">Q3 2023</div>
+            <div className="milestone-date">Q3 2024</div>
             <div className="milestone-dot"></div>
             <div className="milestone-desc">NDPR compliance framework established</div>
           </div>
           <div className="milestone">
-            <div className="milestone-date">Q4 2023</div>
+            <div className="milestone-date">Q3 2024</div>
             <div className="milestone-dot"></div>
             <div className="milestone-desc">Pilot programs with 3 teaching hospitals</div>
           </div>
           <div className="milestone future">
-            <div className="milestone-date">2024</div>
+            <div className="milestone-date">Q4 2024</div>
             <div className="milestone-dot"></div>
             <div className="milestone-desc">Pan-African expansion</div>
           </div>
